@@ -95,7 +95,7 @@
     <header>
         <div class="header-content">
             <!-- Add your profile picture here -->
-            <img src="./mypic.jpg" alt">
+        
             <h1>pappitha.D</h1>
             <p>student</p>
         </div>
